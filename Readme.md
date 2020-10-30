@@ -9,7 +9,7 @@ NLP lab activities for Fall semester 2020.
 | Week 4 | Simple Text Classification using human names, and using Naive Bayes Classifier | ![Text Classification](https://github.com/lopeselio/NLP-weekly/blob/master/images/Text%20Classification.PNG)|
 | Week 5 | Name Entity Recognition using Spacy and Querying | ![NER_SPACY](https://github.com/lopeselio/NLP-weekly/blob/master/images/Spacy_NER.PNG)|
 | Week 6 | Count Vectorizer and Cosine Similarity | ![CountVect](https://github.com/lopeselio/NLP-weekly/blob/master/images/Count_Vectorizer_Cosine_similarity.PNG)|
-| Week 7 | CMU Dictionary and Lemmmatization (Lancaster, Porter, Snowball), Chinese Segmentation using Jieba) | ![]()|
+| Week 7 | Magnum_Opus Wikipedia Cosine Similarity analysis with and without using stemming | ![CS](https://github.com/lopeselio/NLP-weekly/blob/master/images/Cosine_Similarity_With_and_WithoutS_STEMMING.PNG)|
 | Week 8 | CMU Dictionary and Lemmmatization (Lancaster, Porter, Snowball), Chinese Segmentation using Jieba) | ![]()|
 | Week 9 | CMU Dictionary and Lemmmatization (Lancaster, Porter, Snowball), Chinese Segmentation using Jieba) | ![]()|
 | Week 10 | CMU Dictionary and Lemmmatization (Lancaster, Porter, Snowball), Chinese Segmentation using Jieba) | ![]()|
